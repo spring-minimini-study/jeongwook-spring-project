@@ -1,4 +1,5 @@
 ```text
+0303 1주차 : project 초기화
 0308 2주차 : h2DB 활용해 프로젝트 구조 잡고 간단하게 더미 데이터 insert 
 src/main/java/com/board/demo
  ┣  controller  # HTTP 요청/응답을 처리하는 웹 계층 (API 엔드포인트)
