@@ -22,7 +22,8 @@ dependencies {
 	//추가
 	implementation ("org.springframework.boot:spring-boot-starter-web") // RestController
 	implementation ("org.springframework.boot:spring-boot-starter-data-jpa")
-	runtimeOnly ("com.h2database:h2")
+//	runtimeOnly ("com.h2database:h2")
+	implementation("com.h2database:h2")
 	compileOnly ("org.projectlombok:lombok")
 	annotationProcessor ("org.projectlombok:lombok")
 
